@@ -1,0 +1,35 @@
+/* Comentário CSS - Este é um comentário que não é interpretado pelo navegador. */
+
+/* Estilizando o cabeçalho */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Estilizando o título principal */
+h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+/* Estilizando o conteúdo principal */
+main {
+    margin: 20px;
+}
+
+/* Estilizando os vídeos */
+video {
+    display: block;
+    max-width: 100%;
+    margin: 20px auto;
+}
+
+/* Estilizando o rodapé */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
